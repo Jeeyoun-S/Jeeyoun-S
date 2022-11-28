@@ -4,9 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nerko+One" rel="stylesheet">
+
 <div align=center>
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeeyoun%20Seo&fontSize=90" />
+
+<img style="font-family: 'Nerko One', cursive;" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeeyoun%20Seo&fontSize=90" />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeeyoun%20Seo&fontSize=90)
 
