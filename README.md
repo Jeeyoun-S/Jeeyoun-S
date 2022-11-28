@@ -20,7 +20,10 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=GitHubPages&logoColor=white">
+
  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeey0124)](https://solved.ac/jeey0124)
 <!---
 Jeeyoun-S/Jeeyoun-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
