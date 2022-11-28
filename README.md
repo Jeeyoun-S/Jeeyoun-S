@@ -17,6 +17,7 @@
 
  <h1>SNS</h1>
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
  
 <!---
 Jeeyoun-S/Jeeyoun-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
