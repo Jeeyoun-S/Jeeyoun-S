@@ -1,7 +1,6 @@
 <div align=center>
-<a href=" https://github.com/Jeeyoun-S/">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002266,100:00001E&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=75">
-</a>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002266,100:00001E&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=75">
  
 <h1>Tech Stacks</h1>
  
