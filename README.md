@@ -6,7 +6,7 @@
 
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:002266,100:00001E&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002266,100:00001E&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=75)
 
 ![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
