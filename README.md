@@ -2,7 +2,7 @@
  
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002266,100:00001E&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=75">
 
-  # Tech Stacks
+ <h1>Tech Stacks</h1>
  
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
