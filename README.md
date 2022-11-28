@@ -16,14 +16,14 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
 <h1>Me</h1>
-<a href="https://www.instagram.com/assimpleas_possible/" target='_blank'>
+<a href="https://www.instagram.com/assimpleas_possible/" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-<a href="https://p-lay-ground.tistory.com/" target='_blank'>
+<a href="https://p-lay-ground.tistory.com/" target="_blank">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-<a href="https://jeeyoun-s.github.io/" target='_blank'>
+<a href="https://jeeyoun-s.github.io/" target="_blank">
  <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=GitHubPages&logoColor=white">
 </a>
   
