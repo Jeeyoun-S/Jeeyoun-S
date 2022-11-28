@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Nerko+One" rel="stylesheet">
 
 <div align=center>
-
+<h1>Jeeyoun Seo</h1>
 <img style="font-family: 'Nerko One', cursive;" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeeyoun%20Seo&fontSize=90" />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeeyoun%20Seo&fontSize=90)
