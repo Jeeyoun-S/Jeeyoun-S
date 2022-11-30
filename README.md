@@ -1,7 +1,5 @@
 <div align=center>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ABF200,50:1DDB16,100:00D8FF&height=300&section=header&text=Jeeyoun&fontSize=90&fontColor=FFFFFF&fontAlign=75">
- 
 <h1>Tech Stacks</h1>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
