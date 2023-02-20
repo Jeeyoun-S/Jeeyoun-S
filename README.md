@@ -27,5 +27,6 @@
 <a href="https://jeeyoun-s.github.io/" target="_blank">
  <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=GitHubPages&logoColor=white">
 </a>
-  
+ 
 </div>
+![Jeeyoun-S's github stats](https://github-readme-stats.vercel.app/api?username=Jeeyoun-S&show_icons=true)
