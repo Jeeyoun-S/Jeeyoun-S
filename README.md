@@ -29,4 +29,4 @@
 </a>
  
 </div>
-![Jeeyoun-S's github stats](https://github-readme-stats.vercel.app/api?username=Jeeyoun-S&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
