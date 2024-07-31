@@ -23,8 +23,5 @@
 <a href="https://p-lay-ground.tistory.com/" target="_blank">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-<a href="https://www.instagram.com/assimpleas_possible/" target="_blank">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
  
 </div>
